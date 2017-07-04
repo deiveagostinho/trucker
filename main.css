@@ -1,0 +1,22 @@
+.body {
+  background-color: greenyellow;
+}
+p {
+  color: black;
+}
+.h1 {
+  color: black;
+}
+.button {
+  background-color: aqua;
+  border: none;
+  padding: 10px;
+}
+.box {
+  width: 80px;
+  height: 40px;
+  background-color: blue;
+  padding: 12px;
+  border: 30px solid red;
+  margin: 36px;
+}
